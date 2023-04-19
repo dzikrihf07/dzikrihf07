@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**INTRODUCE MY SELF**
-
-👋 Hi, I’m Hasydan Dzikri Fathoni
+👋 Hello, I’m Hasydan Dzikri Fathoni
 
 I am a focused recent college graduate (3,41 GPA, Education System and Information Technology) from Indonesia University of Education. During the course of my academic career, I also managed to accrue nearly 1 years of work experience. I had the privilege of working for Sejarahku in a freelance game developer role in my free time, where I learned valuable professional skills such as troubleshooting, programming and application development. In both my academic and professional life, I have been consistently praised as focused by my professors and peers. Whether working on academic, extracurricular, or professional projects, I apply proven critical thinking, problem-solving and teamwork skills.
 
