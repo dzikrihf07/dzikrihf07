@@ -11,8 +11,8 @@ I am a focused recent college graduate (3,41 GPA, Education System and Informati
 - I’m currently a freshgraduate at Indonesia University of Education (Education System and Information Technology).
 - I’m looking to collaborate on Github or LinkedIn
 - How to reach me on LinkedIn: **[Hasydan Dzikri Fathoni](https://www.linkedin.com/in/dzikri-fathoni-ba931221b/)** 
-<!-- 🖥 Visit my portfolio website: https://dinarrahman30.wixsite.com/dinarrahman30 -->
 - Contact me: dzikrihf@gmail.com
+<!-- 🖥 Visit my portfolio website: https://dinarrahman30.wixsite.com/dinarrahman30 -->
 
 <p align="left">
 <a href="https://github.com/dinarrahman30">
